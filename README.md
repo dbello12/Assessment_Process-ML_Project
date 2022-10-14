@@ -17,4 +17,3 @@ The models will be presented in three datasets:
 
 ### 2. Powerpoint with voiceover overview of the project
 ### 3. Code in Python
-### 4. Video walkthrough of the project
