@@ -14,3 +14,7 @@ The models will be presented in three datasets:
 - Dataset 1 contains the top 50 features, which will be selected using Random Forest Feature Importance
 - Dataset 2 is another data subset selected as a result of statistical analysis
 - Dataset 3 is the entire dataset.
+
+### 2. Powerpoint with voiceover overview of the project
+### 3. Code in Python
+### 4. Video walkthrough of the project
